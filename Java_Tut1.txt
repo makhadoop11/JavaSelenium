@@ -1,0 +1,60 @@
+
+
+Java
+-----
+
+Chapter 1 
+Install JDK
+Install Eclipse IDE
+
+Chapter 2
+Java Syntax and statements 
+- if, if-else, switch-case
+- for , while, do-while, for-each
+- arrays
+- String Manupulation, Wrapper Classes
+- datatypes and operators
+
+Chapter 3
+- Class, object
+- data and moethods
+- method signature
+- this keyword
+- constructors
+
+Chapter 4
+OOPS
+- What makes a language OOPS?
+- encapsulation and data hiding
+- getter and setter
+- Polymorphism, overloading
+
+Chapter 5
+Sample Project
+Review
+
+Chapter 6
+- Inheritence 
+- abstract classes
+- interfaces
+- super keyword
+- overriding
+
+Chapter 7  - Collections
+- List, ArrayList
+- HashMap
+- generics
+
+Review
+
+Chapter 8
+- try-catch-finally
+- throw and throws
+
+Chapter 9
+- final Keyword,
+- static Keyword
+- Variable Arguments
+
+
+
